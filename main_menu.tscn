@@ -1,0 +1,60 @@
+[gd_scene format=3 uid="uid://ckw8bmqq8wi2i"]
+
+[ext_resource type="Script" uid="uid://baxx6ackpyux0" path="res://main_menu.gd" id="1_06t4h"]
+[ext_resource type="Texture2D" uid="uid://be6y71fgg0j35" path="res://500px-Hack_Club_Flag_Standalone.svg-961970392.png" id="2_7vrkn"]
+[ext_resource type="Texture2D" uid="uid://bkf2upfgnhn2b" path="res://Botões de Interfaewewdwd.png" id="2_jix8l"]
+[ext_resource type="Texture2D" uid="uid://ll1j2is2140" path="res://dwdwdefvceq.png" id="3_glbon"]
+
+[node name="Main Menu" type="Control" unique_id=1731011329]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_06t4h")
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=955081471]
+layout_mode = 0
+offset_left = 11.0
+offset_top = -1.0
+offset_right = 1211.0
+offset_bottom = 664.0
+color = Color(0.9254902, 0.21568628, 0.3137255, 1)
+
+[node name="start" type="Button" parent="." unique_id=1745871903]
+texture_filter = 1
+layout_mode = 0
+offset_left = 372.00003
+offset_top = 234.0
+offset_right = 1632.0
+offset_bottom = 700.0
+scale = Vector2(0.325, 0.325)
+icon = ExtResource("2_jix8l")
+
+[node name="quit" type="Button" parent="." unique_id=355094017]
+layout_mode = 0
+offset_left = 408.00003
+offset_top = 417.0
+offset_right = 1659.0
+offset_bottom = 877.0
+scale = Vector2(0.255, 0.255)
+icon = ExtResource("3_glbon")
+
+[node name="500PxHackClubFlagStandalone_svg961970394" type="Sprite2D" parent="." unique_id=2127231052]
+modulate = Color(18.892157, 18.892157, 18.892157, 1)
+position = Vector2(234, 147)
+rotation = -0.27925023
+scale = Vector2(0.773, 0.899)
+skew = 0.0071493387
+texture = ExtResource("2_7vrkn")
+
+[node name="500PxHackClubFlagStandalone_svg961970393" type="Sprite2D" parent="." unique_id=2104930360]
+position = Vector2(234, 147)
+rotation = -0.27925023
+scale = Vector2(0.7425651, 0.794789)
+skew = 0.0071493387
+texture = ExtResource("2_7vrkn")
+
+[connection signal="pressed" from="start" to="." method="_on_start_pressed"]
+[connection signal="pressed" from="quit" to="." method="_on_quit_pressed"]
