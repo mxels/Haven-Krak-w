@@ -1,0 +1,27 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1789762843
+01coin.png::CompressedTexture2D::3994885595001516171::1789760096::1789760097::1::::<><><>0<>0<>a14231be5e193424a1bfe32c753dae3e<>res://.godot/imported/01coin.png-d6367b4875dd7fd6e51d369a513dcc52.ctex::
+500px-Hack_Club_Flag_Standalone.svg-961970392.png::CompressedTexture2D::2732687495465185826::1789760310::1789760311::1::::<><><>0<>0<>0a984f60eeb87bd517f57fd765fa6163<>res://.godot/imported/500px-Hack_Club_Flag_Standalone.svg-961970392.png-fe1589abd1ec9d11941462eff2868eb3.ctex::
+area_2d.gd::GDScript::2412487139275363598::1789761773::0::1::::<>Area2D<><>0<>0<><>::
+Botões de Interfaewewdwd.png::CompressedTexture2D::3100306879391066451::1789760734::1789760734::1::::<><><>0<>0<>d2e1f720b92c85bbca23e7dbaae227ff<>res://.godot/imported/Botões de Interfaewewdwd.png-ddde4a61c1a3ae718dc27140036e9e7c.ctex::
+character_body_2d.gd::GDScript::6858250448510088352::1789759978::0::1::::<>CharacterBody2D<><>0<>0<><>::
+coin.gd::GDScript::2897237845824656796::1789761098::0::1::::<>AnimatedSprite2D<><>0<>0<><>::
+coin.tscn::PackedScene::2845919454547875217::1789761098::0::1::::<><><>0<>0<><>::
+collision_shape_2d.gd::GDScript::2135161173556989183::1789760096::0::1::::<>CollisionShape2D<><>0<>0<><>::
+dwdwdefvceq.png::CompressedTexture2D::23422987665116179::1789760734::1789760734::1::::<><><>0<>0<>abdda0872a3c306f609c59613a2345d4<>res://.godot/imported/dwdwdefvceq.png-92b892da6def8ba855ceb807d27b6a26.ctex::
+export_presets.cfg::TextFile::-1::1789761773::0::1::::<><><>0<>0<><>::
+global.gd::GDScript::7378904762268219826::1789761773::0::1::::<>Node<><>0<>0<><>::
+green.png::CompressedTexture2D::7776157299041852980::1789657888::1789657894::1::::<><><>0<>0<>49fa4769dfabfc5c4438159c5d56e9d0<>res://.godot/imported/green.png-5db815cc8219d4fb24db6968e2796f87.ctex::
+icon.svg::CompressedTexture2D::4939468478880760923::1789657578::1789657583::1::::<><><>0<>0<>cc654a00d2d53185920e196b53ea22ac<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+label.gd::GDScript::996976184736425790::1789761098::0::1::::<>Label<><>0<>0<><>::
+label_2.gd::GDScript::4021314977730816523::1789761773::0::1::::<>Label<><>0<>0<><>::
+main_menu.gd::GDScript::2435353226046131687::1789759943::0::1::::<>Control<><>0<>0<><>::
+main_menu.tscn::PackedScene::5522152216680052350::1789762433::0::1::::<><><>0<>0<><>::uid://baxx6ackpyux0::::res://main_menu.gd<>uid://be6y71fgg0j35::::res://500px-Hack_Club_Flag_Standalone.svg-961970392.png<>uid://bkf2upfgnhn2b::::res://Botões de Interfaewewdwd.png<>uid://ll1j2is2140::::res://dwdwdefvceq.png
+node.tscn::PackedScene::4862933874222632659::1789761933::0::1::::<><><>0<>0<><>::uid://c4ygnau4yjhp5::::res://character_body_2d.gd<>uid://dfdbl8fj407rv::::res://skeleton.png<>uid://buid5jskrbkp4::::res://tiles.png<>uid://blk6f2bpgq8ar::::res://kolce/kolce.tscn<>uid://bgst43scmm7bp::::res://coin.tscn<>uid://du5salm8eh33b::::res://PressStart2P-Regular.ttf<>uid://og7b1h3sfeiw::::res://label.gd<>uid://bamvktgl0snvq::::res://area_2d.gd<>uid://bxj7p8ricyc0r::::res://label_2.gd
+PressStart2P-Regular.ttf::FontFile::8626063760131067841::1789761098::1789761103::1::::<><><>0<>0<>4e67273f5a9e719f138ba5d48dd29d6f<>res://.godot/imported/PressStart2P-Regular.ttf-2e69df3032d4029e990523871515f718.fontdata::
+skeleton.png::CompressedTexture2D::7516481504700634319::1789759327::1789759327::1::::<><><>0<>0<>fc91865de140d3a7831f310443018ba0<>res://.godot/imported/skeleton.png-fd82ba27c67aaa346567dbd303a233f1.ctex::
+Sprite-0001.png::CompressedTexture2D::5557137010132671431::1789761098::1789761103::1::::<><><>0<>0<>d6f89d2336136f061f37708067460d27<>res://.godot/imported/Sprite-0001.png-7647bf9f8b536d839277d4b64aee9852.ctex::
+tiles.png::CompressedTexture2D::3806948804275427355::1789665495::1789665495::1::::<><><>0<>0<>4ede7dc9b1f065947012534786d76ebb<>res://.godot/imported/tiles.png-20e12ed313f9b52ca4483ea23302e684.ctex::
+::res://kolce/::1789762473
+kolce.gd::GDScript::4441663324560381564::1789761098::0::1::::<>StaticBody2D<><>0<>0<><>::
+kolce.tscn::PackedScene::3181034317362814613::1789761098::0::1::::<><><>0<>0<><>::uid://b4jtstg1xkui3::::res://kolce/kolce.gd<>uid://ccmyla0v2cl5t::::res://icon.svg
